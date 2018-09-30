@@ -1,4 +1,4 @@
-Aaron McAlinde: Three Possible Projects
+Aaron McAlinden: Three Possible Projects
 ===========================================
 
 
