@@ -174,3 +174,14 @@ This product would be primarily for long distance travelers, such as commuters. 
 The service could  be monetised by charging a commission or service fee, a small percentage of the donation from the passenger. The service could be free for basic features however it may be an option to offer advanced features such as social features. 
  
 
+
+-----------------------
+
+
+
+Essay Idea
+----------------------
+
+### The death of UI design. The dawn of the conversational interface, digital prodcuts beyond the screen.
+
+The future of digital products and with it the design of digital products lies beyond the screen, with new technologies and devices such as google home, virtual and augmented reality and artificial intelligence.
